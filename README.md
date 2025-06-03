@@ -70,7 +70,7 @@ To get started, register in [Dashboard](https://app.blockcast.network?referral-c
 
 ## Install
 ```bash
-git clone https://github.com/cryptobike/blockcast
+git clone https://github.com/0xmoei/blockcast
 ```
 ```bash
 cd blockcast
